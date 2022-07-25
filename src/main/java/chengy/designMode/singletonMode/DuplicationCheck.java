@@ -1,4 +1,4 @@
-package chengy.设计模式.单例模式;
+package chengy.designMode.singletonMode;
 
 /**
  * 双重检查
